@@ -1,0 +1,13 @@
+{
+	"Id": "solasta_learn_modding",
+	"DisplayName": "solasta_learn_modding",
+	"Author": "dgf1979",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"AssemblyName": "solasta_learn_modding.dll",
+	"EntryMethod": "solasta_learn_modding.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/dgf1979/solasta_learn_modding/main/solasta_learn_modding/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
